@@ -1,7 +1,7 @@
 # DESIGN PATTERNS IN GO
 -------
 
-### creational
+* creational
 -----
   * [singleton design pattern](./src/creational/singleton)
   * [builder design pattern](./src/creational/builder)
