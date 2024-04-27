@@ -4,7 +4,7 @@ import "errors"
 
 type CarFactory struct{}
 
-func (cf *CarFactory) NewVehicle(v int) (Vehicle, error) {
+func (cf *CarFactory) NewVehicle(v int) (Car, error) {
 
 	switch v {
 	case 1:

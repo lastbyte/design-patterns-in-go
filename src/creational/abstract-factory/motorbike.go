@@ -1,5 +1,6 @@
 package abstractfactory
 
 type Motorbike interface {
-	MotorBikeType() string
+	Vehicle
+	MotorBikeType() int
 }
