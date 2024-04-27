@@ -10,9 +10,9 @@ Each pattern is demonstrated with clear, concise code examples, and we delve int
 
 Explore, learn, and contribute as we dive into the world of Go design patterns!
 
+-----
 
 * creational
------
   * [singleton design pattern](./src/creational/singleton)
   * [builder design pattern](./src/creational/builder)
   * [factory design pattern](./src/creational/factory)
